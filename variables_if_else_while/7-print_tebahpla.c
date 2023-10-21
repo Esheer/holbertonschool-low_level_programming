@@ -13,9 +13,9 @@ int main(void)
 
 	for (hola = 'z'; hola >= 'a'; hola--)
 
-		putchar(hola);
+	putchar (hola);
 
-	        putchar ('\n');
+        putchar ('\n');
 	
-	return (0);
+return (0);
 }
