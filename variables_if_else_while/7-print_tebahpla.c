@@ -10,11 +10,12 @@
 int main(void)
 {
 	char hola;
+
 	for (hola = 'z'; hola >= 'a'; hola--)
 
-		putchar (hola);
-	
-	putchar('\n');
+		putchar(hola);
 
+	putchar ('\n');
+	
 	return (0);
 }
