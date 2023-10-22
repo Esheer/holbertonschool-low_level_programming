@@ -3,7 +3,7 @@
 /**
  * main - punto de entrada
  *
- * Retunr: 0
+ * Return: 0
  */
 
 int main(void)
