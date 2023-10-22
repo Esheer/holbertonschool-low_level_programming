@@ -1,8 +1,8 @@
 #include "main.h"
 
 /**
- * _putchar - Write a program that prints _putchar, followed by a new line
- * 
+ * main - punto de entrada
+ *
  * Retunr: 0
  */
 
