@@ -1,9 +1,8 @@
 #include "main.h"
 
 /**
- * main  - Write a program that prints _putchar, followed by a new line
+ * _putchar - Write a program that prints _putchar, followed by a new line
  * 
- *
  * Retunr: 0
  */
 
@@ -18,6 +17,5 @@ int main(void)
 	_putchar('a');
 	_putchar('r');
 	_putchar('\n');
-	
 	return (0);
 }
